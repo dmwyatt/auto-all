@@ -1,6 +1,6 @@
 # auto-all
 
-Automatically manage the `__all__` variable in Python modules.
+Automatically manage the [`__all__`](https://docs.python.org/3/tutorial/modules.html#importing-from-a-package) variable in Python modules.
 
 [![pypi package](https://badge.fury.io/py/auto-all.svg)](https://pypi.org/project/auto-all)
 [![build status](https://api.travis-ci.com/jongracecox/auto-all.svg?branch=master)](https://travis-ci.com/jongracecox/auto-all)
